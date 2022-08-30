@@ -1,3 +1,3 @@
-# Oi, tudo bem? 🙃
+# Oi, tudo bem? 
 
-Esse é o repositório de Flexbox, onde fizemos a interface de login do Instagram! 
+Repositorio com a interface de login do instagram! Treinando a responsividade.
